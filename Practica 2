@@ -1,5 +1,9 @@
-int t1; int t2; int t3;
-int ledrojo = 5; int ledverde = 6; int ledazul = 7;
+int t1; 
+int t2; 
+int t3;
+int ledrojo = 5; 
+int ledverde = 6; 
+int ledazul = 7;
 
 void setup() {
   Serial.begin(9600);
